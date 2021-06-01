@@ -6,7 +6,7 @@ edition = "2018"
 description = "Mount Config is a environment based config management crate"
 repository = "https://github.com/codekidX/mountc"
 license = "MIT"
-
+keywords = ["config", "management"]
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
